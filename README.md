@@ -6,7 +6,7 @@ Dataset:
     The dataset used for this project is stored in sonar_data.csv. This file contains features extracted from sonar signals and  corresponding labels ('M' for mine and 'R' for rock).
 
 Code: 
-    The code to train the logistic regression model and evaluate its performance is provided in SONAR Rock vs Mine Prediction.ipynb. This Jupyter Notebook includes data loading, preprocessing, model training, evaluation metrics calculation, and visualization of results.
+        The code to train the logistic regression model and evaluate its performance is provided in SONAR Rock vs Mine Prediction.ipynb. This Jupyter Notebook includes data loading, preprocessing, model training, evaluation metrics calculation, and visualization of results.
 
 Model Training:
 
